@@ -20,7 +20,7 @@ Entry-level Security Operations Center (SOC) Analyst and Incident Responder with
 
 | Case Reference | Scenario / Attack Type | Primary Tools Used | Key Focus Area | Full Technical Report |
 | :--- | :--- | :--- | :--- | :--- |
-| **IR-01** | **Enterprise SIEM Triage** (Persistence Alert) | Splunk Enterprise (SPL), Sysmon | Process tree analysis, LOLBAS execution detection | [Open PDF](reports/01-The-Scheduled-Task Attack.pdf) |
+| **IR-01** | **Enterprise SIEM Triage** (Persistence Alert) | Splunk Enterprise (SPL), Sysmon | Process tree analysis, LOLBAS execution detection | [Open PDF](reports/01-The-Scheduled-Task-Attack.pdf) |
 | **IR-02** | **AD Exploit Triage** (Zero Tolerance) | Wireshark, Windows Event Logs, Mimikatz | CVE analysis, credential dumping| [Open PDF](reports/02-The-Command-&-Control-Attack.pdf) |
 | **IR-03** | **Phishing Investigation** (Greenholt Phish) | Thunderbird, CyberChef, VirusTotal | Header analysis, SPF/DKIM validation, payload decoding | [Open PDF](reports/03-The-Phishing-Attack.pdf) |
 | **IR-04** | **Enterprise SIEM Triage** (Splunk) | Splunk Enterprise (SPL), Sysmon | Process tree analysis, LOLBAS execution detection | [Open PDF](reports/04-The-Brute-Force-Attack.pdf) |
